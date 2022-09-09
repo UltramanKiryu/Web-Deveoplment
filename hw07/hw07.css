@@ -1,0 +1,37 @@
+table
+{
+    border-collapse:collapse;
+    text-align:center;
+} 
+th
+{
+    border-style:solid;
+    border-color:black;
+    background-color:green;
+    color:white;
+    
+}
+td
+{
+    border-style:solid;
+    border-color:black;
+    text-align:left;
+}
+tr{border-color:black;}
+#output {
+  position: absolute;
+  left: 49%;
+  padding: 10px;
+  min-height: 200px;
+  border-radius: 15px;
+  float: right;
+  width: 46%;
+} 
+#input {
+  position: relative;
+  padding: 10px;
+  border-radius: 15px;
+  width: 46%;
+  float: left;
+  min-height: 200px;
+}  

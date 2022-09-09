@@ -1,0 +1,16 @@
+th
+{
+    border-style:solid;
+    border-color:black ;
+    text-align:center;
+}
+td
+{
+    border-style:solid;
+    border-color:black ;
+    text-align:left;
+}
+table
+{
+    border-collapse:collapse;
+}
